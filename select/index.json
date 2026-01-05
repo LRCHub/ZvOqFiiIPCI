@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かえりみちの色",
+  "base_artist": "渋谷ハル",
+  "createdAt": "2026-01-05T13:11:55.792310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かえりみちの色",
+      "artist": "渋谷ハル",
+      "has_synced": false,
+      "path": "select/pl_01_かえりみちの色_渋谷ハル.txt"
+    }
+  ]
+}
